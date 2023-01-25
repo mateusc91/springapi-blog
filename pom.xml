@@ -41,10 +41,10 @@
         <configuration>
           <schemaVersion>v2</schemaVersion>
           <subscriptionId>d77be15f-9b7c-4b92-9158-e37dd06153d3</subscriptionId>
-          <resourceGroup>spring-api-azure-1674662737916-rg</resourceGroup>
-          <appName>spring-api-azure-1674662737916</appName>
+          <resourceGroup>springapps</resourceGroup>
+          <appName>spring-api-azure-blog</appName>
           <pricingTier>F1</pricingTier>
-          <region>centralus</region>
+          <region>eastus</region>
           <runtime>
             <os>Linux</os>
             <javaVersion>Java 17</javaVersion>

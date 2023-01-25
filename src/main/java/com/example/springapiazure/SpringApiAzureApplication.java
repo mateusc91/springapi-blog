@@ -15,7 +15,7 @@ public class SpringApiAzureApplication {
         SpringApplication.run(SpringApiAzureApplication.class, args);
     }
 
-    @GetMapping
+    @GetMapping("/test")
     public String getMessage(){
         return "API running!";
     }
